@@ -1,0 +1,3 @@
+url: http://127.0.0.1:10617
+tunnel: 3fe5c3b1-e09b-433c-8588-83c5dd7627ab
+credentials-file: C:\Users\rolly\.cloudflared\3fe5c3b1-e09b-433c-8588-83c5dd7627ab.json
