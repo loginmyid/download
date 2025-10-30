@@ -63,3 +63,14 @@ server {
   }
 }
 ```
+
+## Client
+
+Konfigurasi Klien:
+* Protocol: VMess
+* Transport: XHTTP
+* Host/SNI: your.domain.com
+* Path: /loginmyid
+* Version: h2 (atau h3 bila didukung)
+* UUID: 08a5d7ec-45d7-4928-9bd6-d9bd97c00cde
+* alterId: 0
